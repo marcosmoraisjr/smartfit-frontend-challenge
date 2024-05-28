@@ -34,7 +34,7 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-  git clone https://github.com/Fernanda-Kipper/smartfit-frontend-challenge.git
+  git clone https://github.com/marcosmoraisjr/smartfit-frontend-challenge.git
   cd smartfit-frontend-challenge
 
 ```
