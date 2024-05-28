@@ -3,7 +3,7 @@
 ![Smart Fit](./src/assets/images/svg/logo.svg)
 
 Este repositório contém a solução para o desafio de [Front-end da Smart Fit](https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master) desenvolvido durante o vídeo do canal de Fernada Kipper. 
-Foi utilizadoei o framework Angular para desenvolver a aplicação, e você pode assistir o vídeo [aqui](https://www.youtube.com/watch?v=ozZXMkp8MnQ).
+No projeto foi utilizado o framework Angular para desenvolver a aplicação, e você pode assistir o vídeo [aqui](https://www.youtube.com/watch?v=ozZXMkp8MnQ).
 
 ## 📖 Sobre o desafio
 
